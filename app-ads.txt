@@ -19,6 +19,9 @@ webeyemob.com, 70628, RESELLER
 taurusx.com, 70628, RESELLER
 improvedigital.com, 2450, RESELLER
 improvedigital.com, 2451, RESELLER
+adingo.jp, 31054, RESELLER
+singularads, 548745, RESELLER
+yieldmo.com, 3591550211052216798, RESELLER, 6a92c77cfc3d2258
 video.unrulymedia.com, 906352066, RESELLER
 rubiconproject.com, 15268, DIRECT, 0bfd66d529a55807
 pubmatic.com, 159382, RESELLER,
