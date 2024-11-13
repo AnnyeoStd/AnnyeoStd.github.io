@@ -35,6 +35,10 @@ Contextweb.com, 562911, RESELLER, 89ff185a4c4e857c
 improvedigital.com, 2276, RESELLER
 pubmatic.com, 165340, RESELLER, 5d62403b186f2ace
 yeahmobi.com, 104752, RESELLER
+opera.com, pub11079554715136, DIRECT, 55a0c5fd61378de3
+lijit.com, 530498, RESELLER, fafdf38b16bf6b2b
+showheroes.com, 6031, RESELLER
+smartclip.net, 27985, RESELLER
 admixer.net, f6790c61-b9ce-49b0-b809-059710d60dfd, DIRECT
 e-planning.net, ec771b05828a67fa, RESELLER, c1ba615865ed87b2
 richaudience.com, 9komJKwMhZ, RESELLER
